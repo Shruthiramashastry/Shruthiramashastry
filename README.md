@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shruthiramashastry
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning laravel framework....
+- 👀 I’m interested in coding 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at shruthiram.shastry@gmail.com www.linkedin.com/in/shruthi-r-38123061
 
